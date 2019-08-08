@@ -8,3 +8,18 @@ An impotant aspect was to pay attention to the different scenarios in the given 
 The report <b>ValdoJoaoReport.pdf</b> contains a description of the technical challenges encountered,
 the various paths explored, including those that were discarded, and a quick review of the code structure and how the different
 pieces interact together.
+
+
+## Implementation Guide
+<b>Dependencies</b> <br>
+OpenCV https://docs.opencv.org/3.3.1/d7/d9f/tutorial_linux_install.html
+<br><br>
+Go to the project dir<br>
+open CMakeLists.txt and adjust the path to your OpenCV dir<br>
+in command line cd <root project dir>
+  
+<b>Build</b> <br>
+cmake CMakeLists.txt <br>
+make<br>
+Run<br>
+./bin/MultistrokeRec
