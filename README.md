@@ -8,8 +8,7 @@ parts. Each part saves the points of one hand then each hand stroke is classifie
 course this is not an optimal implementation as there is some ambiguity when the hands swap
 positions.
 
-The report <b>ValdoJoaoReport.pdf</b> contains a description of the technical challenges encountered,
-the various paths explored, including those that were discarded, and a quick review of the code structure and how the different
+The report <b>ValdoJoaoReport.pdf</b> contains the code structure and how the different
 pieces interact together. Demo can be found here https://youtu.be/ir7_U5YVynI
 
 
