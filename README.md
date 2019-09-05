@@ -1,7 +1,6 @@
 # 3D-Pointer-and-Simple-Stroke-Recognition: July 2019
 
-Given a sequence of depth and confidence image pairs recorded from two models of DepthSense
-cameras the goal is to create an application that isolates the hand in the scene, computes a pointer located in that
+Given a sequence of images the goal is to create an application that isolates the hand in the scene, computes a pointer located in that
 hand and uses the sequence of positions to classify the stroke using $1 Unistroke Recognizer.
 An impotant aspect was to pay attention to the different scenarios in the given image sequences: some gestures are performed with two hands.
 
